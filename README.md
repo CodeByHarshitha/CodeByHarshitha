@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @CodeByHarshitha
-- 👀 I’m interested in App development and Artificial Intelligence/Machine Learning(AI/ML).
-- 🌱 I’m currently learning Java and Python, and I'm excited to apply my skills to real-world projects.
-- 💞️ I’m looking to collaborate on App Development and Machine Learning projects and always eager to connect with like-minded developers.
-- 📫 If you're interested in working together, feel free to reach out to me at hkasaraneni007@gmail.com
-- 😄 Pronouns:She/Her.
-- ⚡ Fun fact: My first "Hello, World!" program still makes me smile-it's like a little celebration every time I run it!🫶🏻
+-👋 Hi, I’m @CodeByHarshitha!
+-🚀 Aspiring AI/ML Engineer & Tech Enthusiast
+-💡 Passionate about Artificial Intelligence, Machine Learning, and AI for Creativity
+-🌱 Currently learning Machine Learning, DSA, and AI development
+-💻 Open to collaborating on AI-driven projects and open-source contributions
+-📫 Reach out to me at hkasaraneni007@gmail.com
+-⚡ Fun fact: My first "Hello, World!" still feels like a mini achievement every time! 🫶🏻
 
 <!---
 CodeByHarshitha/CodeByHarshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
